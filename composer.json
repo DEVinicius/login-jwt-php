@@ -19,7 +19,6 @@
         "ext-pdo": "*",
         "php":"^7.3",
         "coffeecode/router": "^1.0",
-        "league/plates": "^3.3",
-        "lcobucci/jwt": "^4.0@alpha"
+        "league/plates": "^3.3"
     }
 }
